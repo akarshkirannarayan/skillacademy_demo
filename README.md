@@ -1,2 +1,2 @@
 # skillacademy_demo
-author-br akarsh
+author-brk akarsh
